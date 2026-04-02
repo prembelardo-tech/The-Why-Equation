@@ -8,3 +8,4 @@ All figures used in the manuscript are available in high resolution in the `/fig
 - `Why_Equation_Simulation.py`: The computational model simulating the recursive dynamics of Meaning (M) and Biological Entropy (E).
 - `GSE45329_Validation.py`: Script for analyzing empirical transcriptomic data.
 - `LICENSE`: MIT License.
+- Why_Equation_MonteCarlo.py: Monte Carlo robustness analysis simulating 1,000 iterations to validate the model's structural resilience against biological noise.
