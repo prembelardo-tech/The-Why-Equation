@@ -1,11 +1,25 @@
-# The-Why-Equation
-Computational simulation and validation code for "The Why-Equation" theoretical framework.
-## Figures
-All figures used in the manuscript are available in high resolution in the `/figures` directory.
+# The Why-Equation
 
-## Repository Structure
-- `The_Why_Equation_v9.pdf`: The full theoretical manuscript.
-- `Why_Equation_Simulation.py`: The computational model simulating the recursive dynamics of Meaning (M) and Biological Entropy (E).
-- `GSE45329_Validation.py`: Script for analyzing empirical transcriptomic data.
-- `LICENSE`: MIT License.
-- Why_Equation_MonteCarlo.py: Monte Carlo robustness analysis simulating 1,000 iterations to validate the model's structural resilience against biological noise.
+**Computational simulation and empirical validation for the theoretical framework: "The Why-Equation: How Abstract Intentionality Governs Biological Systems through Top-Down Causality"**
+
+This repository contains all code, data, and figures necessary to reproduce the computational simulations and empirical validation presented in the manuscript.
+
+---
+
+## 📄 Manuscript
+- **Full PDF**: [`The_Why_Equation_v9.pdf`](The_Why_Equation_v9.pdf) (latest version)
+
+---
+
+## ✨ Key Features
+- Recursive dynamical system modeling Will (𝑾) and Meaning (𝑴) as independent higher-order variables
+- Time-series simulation of Cognitive Friction → Resonance Moment → Flow State
+- Monte Carlo robustness analysis (n = 1,000)
+- 80% directional concordance validation against GSE45329 (Fredrickson et al., 2013)
+- Cross-validation with 2015 replication cohort
+- Full reproducibility of all figures in the paper
+
+---
+
+## 📁 Repository Structure
+
