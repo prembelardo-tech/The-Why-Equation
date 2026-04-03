@@ -38,17 +38,5 @@ text
 
 ---
 
-## 🚀 How to Reproduce
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Main simulation (Figure 1,3)
-python "why_equation_main_simulation.py"
-
-# 3. sensitivity analysis(Figure 2)
-python "why_equation_sensitivity_analysis.py"
-
 # 4. GSE45329 Validation (Figure 5)
 python GSE45329_Validation.py
