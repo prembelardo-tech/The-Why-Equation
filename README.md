@@ -38,5 +38,13 @@ text
 
 ---
 
-# 4. GSE45329 Validation (Figure 5)
-python GSE45329_Validation.py
+Citation
+If you use this code or the Why-Equation framework in your research, please cite the manuscript:
+Prem Belardo (2026). The Why-Equation: How Abstract Intentionality Governs Biological Systems through Top-Down Causality. Manuscript submitted for publication.
+GitHub repository: https://github.com/prembelardo-tech/The-Why-Equation
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Repository last updated: April 2026
+Questions? Open an issue or contact the author.
