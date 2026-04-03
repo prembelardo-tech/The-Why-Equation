@@ -24,7 +24,7 @@ This repository contains all code, data, and figures necessary to reproduce the 
 ## 📁 Repository Structure
 The-Why-Equation/
 ├── The_Why_Equation.pdf                     # Full manuscript
-├── why_equation_main_simulation.py          # Main simulation → produces Figure 1 (Eudaimonic vs Hedonic time-series) and comparison plot
+├── why_equation_main_simulation.py          # Main simulation → produces Figure 1 (Eudaimonic vs Hedonic time-series) and comparison plot figure 3
 ├── why_equation_sensitivity_analysis.py     # Sensitivity analysis → Figure 2
 ├── why_equation_cross_validation_2015.py    # Cross-validation with Fredrickson et al. 2015 figure 6
 ├── Why_Equation_MonteCarlo_Figure4.py       # # Monte Carlo n=100 → Figure 4
