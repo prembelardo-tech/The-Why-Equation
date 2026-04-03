@@ -43,3 +43,9 @@ text
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+2. Run the main simulation (Figure 1,3)
+python why_equation_main_simulation.py
+
+3.run sensitivity analysis (figher 2)
+python why_equation_sensitivity_analysis.py
