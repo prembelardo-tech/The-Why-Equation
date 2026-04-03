@@ -38,10 +38,11 @@ text
 
 ---
 
-## 🚀 How to Reproduce the Results
+## 🚀 How to Reproduce
 
-### 1. Install dependencies
 ```bash
+# 1. Install dependencies
 pip install -r requirements.txt
-### 1. Install dependencies
-```bash
+
+# 2. Main simulation (Figure 1)
+python "Why_Equation_Simulation and Figure 1 Source Code .py"
