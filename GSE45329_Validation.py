@@ -4,7 +4,7 @@ import numpy as np
 
 # 1. Load the Dataset
 # Ensure the .tsv file is in the same directory as this script
-file_path = r'/content/GSE45329.top.table (2).tsv'
+file_path = r'/GSE45329.top.table .tsv'
 try:
     df = pd.read_csv(file_path, sep='\t')
 except FileNotFoundError:
